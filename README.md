@@ -16,7 +16,7 @@ Te poți aștepta la lucruri, ca:
 **Flutter on** va avea loc în fiecare Marți, de la 19:00 (7 PM), la 21:00 (9 PM) [ora României](https://www.timeanddate.com/time/zones/eest).
 
 ## În ce limbă vom vorbi?
-Dacă vom avea, în audiență, persoane ce nu vorbesc româna vom încerca să vorbim în engleză. Dacă nu, atunci vom vorbi limba maternă.  
+Dacă for fi, în audiență, persoane ce nu vorbesc româna vom încerca să vorbim în engleză. Dacă nu, atunci vom vorbi limba maternă.  
 
 ## E un eveniment închis?
 Nu, toată lumea este binevenită, doar că va trebui să te înscrii în grupul nostru de Discord.  
@@ -55,7 +55,7 @@ You can expect stuff, like:
 **Flutter on** is scheduled every Tuesday, from 19:00 (7 PM), to 21:00 (9 PM) [East European Summer Time](https://www.timeanddate.com/time/zones/eest).
 
 ## What language is the event in?
-If we have non-romanian, in the audience, we will try to speak in english. Otherwise the event will be in romanian.
+If there will be non-romanians, in the audience, we will try to speak in english. Otherwise the event will be in romanian.
 
 ## Is it a closed event?
 No, everyone is free to join, but you need to join the Discord group.
