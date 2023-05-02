@@ -24,7 +24,7 @@ Poți să te înscrii în comunitatea noastră, prin următorul link: https://di
 
 # Ghidul evenimentului    
 Toată lumea este binevenită, așa că te rugăm să îi respecți pe ceilalți din jur, chiar dacă nu ești de acord cu ei.  
-Nu este permisă reclama de nici un fel și nici recrutarea spre locuri de muncă, evenimentul nu este despre așa ceva. Pentru listare de job-uri vizitați canalul #jobs
+Nu este permisă reclama de nici un fel și nici recrutarea spre locuri de muncă, evenimentul nu este despre așa ceva. Pentru listare de job-uri vizitați canalul #jobs  
 Nu este cu eveniment cu microfonul deschis, decât dacă gazda (gazdele) specifică acest lucru. Dacă dorești să vorbești sau să pui o întrebare folosește interfața call-ului (raise hand), sau scrie în chat.  
 Dacă scrii în chat:  
 - dacă dorești să pui o întrebare, pune în fața ei **Q:**  
