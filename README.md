@@ -2,7 +2,7 @@
 Depozit pentru evenimentul **Flutter on** al grupului Flutter România.
 
 ## Ce este **Flutter on**?  
-Un eveniment găzduit de programatori Flutter, din România.  
+Un eveniment găzduit de comunitatea de Flutter, din România.  
 
 ## Despre ce este evenimentul?   
 Evenimentul este despre apropierea comunității, despre Flutter și despre dezvoltarea noastră ca programatori.  
@@ -16,15 +16,15 @@ Te poți aștepta la lucruri, ca:
 **Flutter on** va avea loc în fiecare Marți, de la 19:00 (7 PM), la 21:00 (9 PM) [ora României](https://www.timeanddate.com/time/zones/eest).
 
 ## În ce limbă vom vorbi?
-Dacă for fi, în audiență, persoane ce nu vorbesc româna vom încerca să vorbim în engleză. Dacă nu, atunci vom vorbi limba maternă.  
+In functie de audiență, în romana sau în engleză.
 
 ## E un eveniment închis?
-Nu, toată lumea este binevenită, doar că va trebui să te înscrii în grupul nostru de Discord.  
-Poți să te înscrii în comunitatea noastră, în continuă creștere, prin următorul link: https://discord.gg/SpyZEngH
+Toată lumea este binevenită. Trebuie doar să te înscrii în grupul nostru de Discord.  
+Poți să te înscrii în comunitatea noastră, prin următorul link: https://discord.gg/SpyZEngH
 
 # Ghidul evenimentului    
 Toată lumea este binevenită, așa că te rugăm să îi respecti pe ceilalți din jur, chiar dacă nu ești de acord cu ei.  
-Nu este permisă reclama despre locuri de muncă (sau orice alt tip de reclamă), evenimentul nu este despre așa ceva.  
+Nu este permisă reclama de nici un fel si nici recrutarea spre despre locuri de muncă, evenimentul nu este despre așa ceva. Pentru listare de job-uri vizitati canalul #jobs
 Nu este cu eveniment cu microfonul deschis, decât dacă gazda (gazdele) specifică acest lucru. Dacă dorești să vorbești sau să pui o întrebare folosește interfața call-ului (raise hand), sau scrie în chat.  
 Dacă scrii în chat:  
 - dacă dorești să pui o întrebare, pune în fața ei **Q:**  
@@ -34,8 +34,7 @@ Dacă scrii în chat:
 Nu repeta același lucru încontinuu, în chat. (nu spama)    
 Ai răbdare, evenimentul este ceva nou pentru unii din noi, suntem oameni și putem greși.  
 
-Apreciem orice opinie, dacă dorești să ne spui ceva o poti face pe canalul [#flutter-on](https://discord.com/channels/790514837243166730/1098642123525464084) channel.
-
+Suntem deschisi opniilor noi venite, iar dacă dorești să ne spui ceva o poti face pe canalul [#flutter-on](https://discord.com/channels/790514837243166730/1098642123525464084).
 
 # Flutter on (EN)
 Flutter Romania group repository used for **Flutter on** event.
