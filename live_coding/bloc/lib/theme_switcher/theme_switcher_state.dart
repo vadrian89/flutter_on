@@ -7,6 +7,8 @@ class ThemeSwitcherState extends Equatable {
   final TargetPlatform platform;
 
   bool get isDark => themeMode == ThemeMode.dark;
+  @override
+  List<Object?> get props => [themeMode, platform];
 
   const ThemeSwitcherState({
     this.themeMode = ThemeMode.light,
@@ -20,9 +22,6 @@ class ThemeSwitcherState extends Equatable {
         themeMode: themeMode ?? this.themeMode,
         platform: platform ?? this.platform,
       );
-
-  @override
-  List<Object?> get props => [themeMode, platform];
 }
 
 /// Freezed union class used for state.
